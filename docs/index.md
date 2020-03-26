@@ -11,7 +11,7 @@ This is the homepage for the regular algebraic geometry seminar held in Shanghai
 
 
 
-In this spring semester, 2020, the seminar topic is "Hodge conjectures".
+In this spring semester, the seminar topic is "Hodge conjectures".
 
 ## Schedule
 
