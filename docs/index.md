@@ -1,6 +1,4 @@
 ---
-layout: default
-
 title: AG Seminar 2020
 
 ---
