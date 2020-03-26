@@ -1,11 +1,10 @@
 ---
 
-layout: post
 title: AG Seminar 2020
 
 ---
 
-## About this seminar
+
 
 This is the homepage for the regular algebraic geometry seminar holds in Shanghai Center of Mathematical Sciences. The topic is "Hodge conjectures".
 
