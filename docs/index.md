@@ -13,7 +13,7 @@ In this spring semester, the seminar topic is "Hodge conjectures".
 
 ## Schedule 
 
-We will meet every Tuesday afternoon, from 1 pm to 1: 30 pm. The lecture notes or slides will be updated after each talk.
+We will meet every Tuesday afternoon, approximately from 1 pm to 2: 30 pm. The lecture notes or slides will be updated after each talk.
 
 |Date| Title | Speaker| Abstract | notes |
 |----| ---- | ----|----|----|
