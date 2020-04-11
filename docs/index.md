@@ -13,14 +13,14 @@ In this spring semester, the seminar topic is "Hodge conjectures".
 
 ## Schedule 
 
-We will meet every Tuesday afternoon, approximately from 1 pm to 2: 30 pm. The lecture notes or slides will be updated after each talk.
+We will meet every Tuesday afternoon, approximately from 2 pm to 3: 30 pm. The lecture notes or slides will be updated after each talk.
 
 |Date| Title | Speaker| notes |
 |----| ---- | ----|----|
 |2020.3.31 | Introduction to Hodge conjecture | Zhiyuan Li | [slides]({{site.url}}/Seminar2020/assert/Seminar.pdf) |
 |2020.4.7 | Examples on IHC                  | Ruxuan Zhang |  |
-|2020.4.14 |                                  |  |  |
-| 2020.4.21 |  |  |  |
+|2020.4.14 |                                  | Haoyu Wu |  |
+| 2020.4.21 |  | Xun Zhang |  |
 
 ## Abstracts
 
@@ -36,3 +36,4 @@ We will meet every Tuesday afternoon, approximately from 1 pm to 2: 30 pm. The l
 
    
 
+3. 
