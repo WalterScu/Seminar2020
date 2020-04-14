@@ -36,4 +36,16 @@ We will meet every Tuesday afternoon, approximately from 2 pm to 3: 30 pm. The l
 
    
 
-3. 
+3. ### Absolute Hodge class and Hodge conjectures on abelian varieties I
+
+   > 
+
+4. ### Absolute Hodge class and Hodge conjectures on abelian varieties II
+
+   > 
+
+## The Video Links
+
+1. Welink:  https://space.welink.huaweicloud.com/p/6695513d43cd87f36069c8b8bbb11c84     
+
+   ​			passwd: SCMS2020
