@@ -18,9 +18,9 @@ We will meet every Tuesday afternoon, approximately from 2 pm to 3: 30 pm. The l
 |Date| Title | Speaker| notes |
 |----| ---- | ----|----|
 |2020.3.31 | Introduction to Hodge conjecture | Zhiyuan Li | [slides]({{site.url}}/Seminar2020/assert/Seminar.pdf) |
-|2020.4.7 | Examples on IHC                  | Ruxuan Zhang |  |
-|2020.4.14 |                                  | Haoyu Wu |  |
-| 2020.4.21 |  | Xun Zhang |  |
+|2020.4.7 | Examples on IHC                  | Ruxuan Zhang | [notes]({{site.url}}/Seminar2020/assert/Seminar1.pdf)  |
+|2020.4.14 | Absolute Hodge class and Hodge conjectures on abelian varieties I                                | Xun  Zhang  |[notes]({{site.url}}/Seminar2020/assert/Seminar2.pdf) |
+| 2020.4.21 |  Absolute Hodge class and Hodge conjectures on abelian varieties II | Haoyu Wu |  |
 
 ## Abstracts
 
